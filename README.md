@@ -35,3 +35,6 @@ The goal of this assignment is to:
 
 ### ✅ Task 4: Model Evaluation
 - Visualize and interpret a **confusion matrix**.
+
+### 2. Install Dependencies
+pip install -r requirements.txt
