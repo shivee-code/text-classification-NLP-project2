@@ -43,7 +43,9 @@ The goal of this assignment is to:
 pip install -r requirements.txt
 ```
 
-📈 Sample Output
-Accuracy: ~0.XX (varies based on dataset)
+### 📈 Sample Output
 
-Confusion matrix provided for evaluation insights.
+
+- Accuracy: ~0.XX (varies based on dataset)
+
+- Confusion matrix provided for evaluation insights.
