@@ -45,6 +45,7 @@ pip install -r requirements.txt
 ```
 
 ### 📈 Sample Output
+──────
 
 - `assignment.ipynb`
 - `README.md`
