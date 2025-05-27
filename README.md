@@ -44,10 +44,15 @@ The goal of this assignment is to:
 pip install -r requirements.txt
 ```
 
-### 📈 Sample Output
-## 📌 Objective
+## 📈 Sample Output
+- Accuracy: ~0.50.
+- Confusion matrix provided for evaluation insights.
 
-The goal of this assignment is to:
-- Explore and understand text classification workflows.
-- Perform preprocessing and cleaning of text data.
-- Train a simple classifier and evaluate its performance.
+## 📚 Libraries Used
+- pandas
+- scikit-learn
+- nltk
+- matplotlib
+
+
+
