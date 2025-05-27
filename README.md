@@ -39,13 +39,13 @@ The goal of this assignment is to:
 ---
 
 ### 2. Install Dependencies
---
+
 ```bash
 pip install -r requirements.txt
 ```
 
 ### 📈 Sample Output
-___
+***
 - Accuracy: ~0.XX (varies based on dataset)
 
 - Confusion matrix provided for evaluation insights.
