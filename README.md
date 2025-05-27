@@ -39,6 +39,7 @@ The goal of this assignment is to:
 ---
 
 ### 2. Install Dependencies
+--
 ```bash
 pip install -r requirements.txt
 ```
