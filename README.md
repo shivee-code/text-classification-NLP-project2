@@ -45,7 +45,9 @@ pip install -r requirements.txt
 ```
 
 ### 📈 Sample Output
-──────
+## 📌 Objective
 
-- `assignment.ipynb`
-- `README.md`
+The goal of this assignment is to:
+- Explore and understand text classification workflows.
+- Perform preprocessing and cleaning of text data.
+- Train a simple classifier and evaluate its performance.
